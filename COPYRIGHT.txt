@@ -1,0 +1,19 @@
+COPYRIGHT © 2025 Noreum Foundation
+-----------------------------------
+
+Project: Noreum Consensus Client (noreum-beacon)
+Maintainer: Noreum Core Team <sign@noreum.org>
+
+All rights reserved under the GNU General Public License version 3 (GPL-3.0).
+
+This software is a derivative work based on Prysm and
+includes significant modifications by the Noreum Foundation
+to support the Noreum Mainnet consensus protocol (chainId 1177).
+
+No part of this code may be relicensed, rebranded, or distributed
+without preserving the GPL-3.0 terms and the original attributions
+to both Prysmatic Labs and Noreum Foundation.
+
+For verification or inquiries:
+  Noreum Legal Office — legal@noreum.org
+  GPG Fingerprint: 1630 2607 60FF 2811 C5BA 73B1 4763 88C3 965F CDFF
