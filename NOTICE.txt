@@ -1,0 +1,19 @@
+NOTICE
+------
+
+This software includes code derived from the open-source project:
+  Prysm — Ethereum Consensus Client
+  © 2018–2025 The Prysmatic Labs and Offchain Labs Authors
+  Licensed under GNU GPL v3.0
+
+Modifications and enhancements made by:
+  © 2025 Noreum Foundation
+  Under the project name: Noreum Consensus Client (noreum-beacon)
+  License: GNU GPL v3.0
+
+All references to Ethereum networks have been adapted to the
+Noreum Mainnet (chainId 1177). All build and consensus logic
+specific to Noreum remains GPL-3.0 compliant and auditable.
+
+Attribution to upstream authors is preserved in accordance
+with the GNU General Public License version 3.
