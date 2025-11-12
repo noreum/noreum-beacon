@@ -1,3 +1,5 @@
+[![Verified by Noreum Cold Key](https://img.shields.io/badge/Verified%20by-Noreum%20Cold%20Key-gold?style=flat-square)](https://github.com/noreum)
+
 # noreum-beacon
 Noreum Consensus Client — a re-engineered beacon node derived from Prysm, purpose-built for the Noreum Mainnet (chainId 1177).
 # Noreum Legal Documentation
